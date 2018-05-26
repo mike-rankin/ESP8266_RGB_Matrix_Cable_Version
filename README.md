@@ -5,7 +5,7 @@ Check out http://www.instructables.com/id/RGB-LED-Matrix-With-an-ESP8266/ for al
 
 Check out the Files under the PCB directory for a parts list, schematic and gerber files to make your own.
 
-Check out 
+To see a video of the basic assembly check out: https://youtu.be/_pmtngvNnLo 
 
 ![pic1](https://user-images.githubusercontent.com/4991664/40571768-3e47e32c-6075-11e8-9886-e8848329a277.jpg)
 
