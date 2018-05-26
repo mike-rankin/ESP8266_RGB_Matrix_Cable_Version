@@ -15,3 +15,4 @@ To see a video of the basic assembly check out: https://youtu.be/_pmtngvNnLo
 
 ![pic4](https://user-images.githubusercontent.com/4991664/40571770-4328f00c-6075-11e8-8b60-a580434650e3.jpg)
 
+Special thanks to @witnessmenow for the inspiration and well documented instructions that helped me with this project and @pdp7 for the OshPark PCBs!
